@@ -2044,11 +2044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nukis\\source\\repos\\ContosoUniversityTARpe22\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\nukis\\source\\repos\\simon-contoso-university\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\nukis\\source\\repos\\ContosoUniversityTARpe22\\ContosoUniversity.csproj",
+      "projectPath": "C:\\Users\\nukis\\source\\repos\\simon-contoso-university\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\nukis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nukis\\source\\repos\\ContosoUniversityTARpe22\\obj\\",
+      "outputPath": "C:\\Users\\nukis\\source\\repos\\simon-contoso-university\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nukis\\AppData\\Roaming\\NuGet\\NuGet.Config",

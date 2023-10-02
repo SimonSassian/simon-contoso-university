@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Migrations",
+    "\\Models",
+    "\\Properties",
+    "\\Views",
+    "\\Views\\Departments",
+    "\\Views\\Home",
+    "\\Views\\Instructors",
+    "\\Views\\Shared",
+    "\\Views\\Students"
+  ],
+  "PreviewInSolutionExplorer": false
+}
